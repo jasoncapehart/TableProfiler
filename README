@@ -1,0 +1,9 @@
+Table Profiler
+
+Created: 12/22/11
+
+v0.1 Goals: - Work with both data frames in R and SQL tables
+            - Provide metadata by feature on the following:
+            		- Descriptive Statistics 
+            		- Proportion of Missing Values
+            		- Distribution graph
